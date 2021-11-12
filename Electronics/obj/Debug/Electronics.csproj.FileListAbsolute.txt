@@ -108,3 +108,4 @@ C:\Users\Bartek\source\repos\Electronics\Electronics\bin\zh\Hangfire.Core.resour
 C:\Users\Bartek\source\repos\Electronics\Electronics\bin\zh-TW\Hangfire.Core.resources.dll
 C:\Users\Bartek\source\repos\Electronics\Electronics\obj\Debug\Electronics.Migrations.AddTablesMigration.resources
 C:\Users\Bartek\source\repos\Electronics\Electronics\obj\Debug\Electronics.csproj.GenerateResource.cache
+C:\Users\Bartek\source\repos\Electronics\Electronics\obj\Debug\Electronics.csproj.CopyComplete
